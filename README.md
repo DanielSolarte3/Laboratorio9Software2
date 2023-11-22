@@ -5,4 +5,5 @@ Se quito la dependencia de RabbitMQ.
 Se agrego el plugin brasil.
 
 Integrantes: Daniel Fernando Solarte Ortega
+
              Cristian David Quinayas Rivera
